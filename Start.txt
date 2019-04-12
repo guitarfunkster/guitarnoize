@@ -1,0 +1,1 @@
+This is my attempt at understanding git and c++ for creating a deep note type audio clip.
